@@ -1,5 +1,5 @@
-Delphi 12 YouTube Downloader
-This project is a YouTube downloader developed in Delphi 12, capable of downloading videos in various formats and qualities.
+Delphi YouTube Downloader
+This project is a YouTube downloader developed in Delphi capable of downloading videos in various formats and qualities.
 
 Supported Formats
 Video Quality: From 8K to 360p in MP4 format.
