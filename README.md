@@ -14,8 +14,7 @@ Download location: Videos will be saved in the Downloads folder located in the s
 Feel free to contribute and improve the project! Your contributions are welcome. :+1: :rocket:
 
 
-![image](https://github.com/user-attachments/assets/205b9898-2f9b-42ed-8ab6-91679af0f1c4)
+![image](https://github.com/user-attachments/assets/93a99fd1-d3f9-49f9-8c84-82ed85a5c9be)
+![image](https://github.com/user-attachments/assets/d2300e96-89ae-45d6-a0bb-93fae905f7d5)
+![image](https://github.com/user-attachments/assets/c48ee554-6a65-4dad-aa63-349c89aea4c6)
 
-![image](https://github.com/user-attachments/assets/68a83d1a-1d3e-4905-8c32-2ced8f5a1b17)
-
-![image](https://github.com/user-attachments/assets/0ea7c29d-2cca-47db-8d28-168910d392d4)
