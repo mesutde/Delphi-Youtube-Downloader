@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.732,=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.029,=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.021,=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,D:\Yazılım\Delphi\Delphi Youtube Downloader\frmUpdateControl.pas=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas=D:\Yazılım\Delphi\Delphi Youtube Downloader\YTDownloader.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas=D:\Yazılım\Delphi\Delphi Youtube Downloader\UpdateTools.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.298,D:\Yazılım\Delphi\Delphi Youtube Downloader\YoutubeDownloaderProject.dproj=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,D:\Yazılım\Delphi\Delphi Youtube Downloader\frmLog.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,D:\Yazılım\Delphi\Delphi Youtube Downloader\frmLog.pas=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,D:\Yazılım\Delphi\Delphi Youtube Downloader\frmLog.pas=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,D:\Yazılım\Delphi\Delphi Youtube Downloader\frmMain.dfm=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,D:\Yazılım\Delphi\Delphi Youtube Downloader\UpdateTools.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,D:\Yazılım\Delphi\Delphi Youtube Downloader\frmMain.pas=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,D:\Yazılım\Delphi\Delphi Youtube Downloader\frmLog.dfm=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,D:\Yazılım\Delphi\Delphi Youtube Downloader\frmUpdateControl.dfm=D:\Yazılım\Delphi\Delphi Youtube Downloader\Unit1.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="frmLog.pas"/>
+    <File Path="frmLog.dfm"/>
+    <File Path="frmMain.pas"/>
+    <File Path="frmMain.dfm"/>
+    <File Path="frmUpdateControl.pas"/>
+    <File Path="frmUpdateControl.dfm"/>
+    <File Path="YTDownloader.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
