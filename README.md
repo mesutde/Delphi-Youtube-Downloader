@@ -5,8 +5,7 @@
 | --- | --- |
 | Bitcoin (BTC) | 1A343Fj43AewvWvTe22pCxcz8zNojFQ6h1 |
 | Usdt (erc20) | 0xaea7bacb68d37ae5c212e9405f0dc0fdaf071e5e |
-| Dogecoin (DOGE) | DSKdGWW5QiEAA5jq4GZBzyssLXqumawbP8
-| Solana (SOL) | 0xaea7bacb68d37ae5c212e9405f0dc0fdaf071e5e |
+| Dogecoin (DOGE) | DSKdGWW5QiEAA5jq4GZBzyssLXqumawbP8|
 
 
 Delphi YouTube Downloader
