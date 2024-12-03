@@ -8,11 +8,6 @@
 | Dogecoin (DOGE) | DSKdGWW5QiEAA5jq4GZBzyssLXqumawbP8
 | Solana (SOL) | 0xaea7bacb68d37ae5c212e9405f0dc0fdaf071e5e |
 
-![image](https://github.com/user-attachments/assets/a52f53eb-3165-4254-8acd-60715fdf2f3b)
-
-
-
-
 
 Delphi YouTube Downloader
 This project is a YouTube downloader developed in Delphi capable of downloading videos in various formats and qualities.
@@ -33,4 +28,8 @@ Feel free to contribute and improve the project! Your contributions are welcome.
 ![image](https://github.com/user-attachments/assets/93a99fd1-d3f9-49f9-8c84-82ed85a5c9be)
 ![image](https://github.com/user-attachments/assets/d2300e96-89ae-45d6-a0bb-93fae905f7d5)
 ![image](https://github.com/user-attachments/assets/c48ee554-6a65-4dad-aa63-349c89aea4c6)
+
+
+
+![image](https://github.com/user-attachments/assets/a52f53eb-3165-4254-8acd-60715fdf2f3b)
 
