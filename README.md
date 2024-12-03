@@ -1,3 +1,19 @@
+<img src="https://github.com/K3V1991/Donate-Crypto/blob/main/Anime-Girl-Donation.png" width="200"></a>
+<br />
+
+| Cryptocurrency | Address |
+| --- | --- |
+| Bitcoin (BTC) | 1A343Fj43AewvWvTe22pCxcz8zNojFQ6h1 |
+| Usdt (erc20) | 0xaea7bacb68d37ae5c212e9405f0dc0fdaf071e5e |
+| Dogecoin (DOGE) | DSKdGWW5QiEAA5jq4GZBzyssLXqumawbP8
+| Solana (SOL) | 0xaea7bacb68d37ae5c212e9405f0dc0fdaf071e5e |
+
+![image](https://github.com/user-attachments/assets/a52f53eb-3165-4254-8acd-60715fdf2f3b)
+
+
+
+
+
 Delphi YouTube Downloader
 This project is a YouTube downloader developed in Delphi capable of downloading videos in various formats and qualities.
 
