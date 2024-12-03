@@ -27,5 +27,6 @@ Feel free to contribute and improve the project! Your contributions are welcome.
 
 
 
-![image](https://github.com/user-attachments/assets/a52f53eb-3165-4254-8acd-60715fdf2f3b)
+![image](https://github.com/user-attachments/assets/84661dc6-e16f-4b82-bfaa-90e5982bfdbb)
+
 
